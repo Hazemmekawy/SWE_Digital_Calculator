@@ -1,2 +1,6 @@
 # SWE_Digital_Calculator
-This repository is for the SWE_Digital_Calculator project "Hamada Helal"
+The repository for the Software Engineering course project 
+ITI - INTAKE 40
+
+
+For SIQ document, RTM & project plan, please visit: https://docs.google.com/spreadsheets/d/1x8X8tBBwa15dDrHtCe1xjG_AAvCJIT0agcksNw3VP-g/edit?usp=sharing
